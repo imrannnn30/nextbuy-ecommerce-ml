@@ -67,4 +67,4 @@ This is a portfolio summary. The full source code, notebooks, and trained models
 
 ---
 
-[Imran Nogueira](https://github.com/imrannnn30) · MMXXVI
+[Imran Nogueira](https://github.com/imrannnn30)
